@@ -8,36 +8,61 @@ const CRM = () => {
     <div className="font-body ">
       <title>CRM Software</title>
       <Navbar />
-
-      <section className="sm:pb-28 bg-white overflow-hidden ">
-        <div className="max-w-screen-xl mx-auto px-9 py-5 md:py-10 gap-12 text-gray-600 overflow-hidden md:px-8 md:flex ">
-          <div className="flex-none space-y-5 max-w-xl">
-            <br></br>
-            <br></br>
-            <h1 className="mx-auto animate-text font-bold font-body bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-transparent md:text-7xl text-6xl   ">
-              The real customer centric CRM
-            </h1>
-            <p className="text-2xl">
-              Track leads, close opportunities and get accurate forecasts.
-            </p>
-            <div className="text-left pt-5  animate-bounce ">
-              <a
-                href={"/contact"}
-                className="bg-transparent  transition ease-in-out duration-500 hover:bg-black text-black font-semibold hover:text-white py-4 px-9  border border-black hover:border-transparent rounded-full"
-              >
-                Start now-Contact us
-              </a>
+{/* 
+        <section className="sm:pb-28 bg-white overflow-hidden ">
+          <div className="max-w-screen-xl mx-auto px-9 py-5 md:py-10 gap-12 text-gray-600 overflow-hidden md:px-8 md:flex ">
+            <div className="flex-none space-y-5 max-w-xl">
+              <br></br>
+              <br></br>
+              <h1 className="mx-auto animate-text font-bold font-body bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-transparent md:text-7xl text-6xl   ">
+                The real customer centric CRM
+              </h1>
+              <p className="text-2xl">
+                Track leads, close opportunities and get accurate forecasts.
+              </p>
+              <div className="text-left pt-5  animate-bounce ">
+                <a
+                  href={"/contact"}
+                  className="bg-transparent  transition ease-in-out duration-500 hover:bg-black text-black font-semibold hover:text-white py-4 px-9  border border-black hover:border-transparent rounded-full"
+                >
+                  Start now-Contact us
+                </a>
+              </div>
+            </div>
+            <div className="flex-1 items-center hidden md:block md:ml-20 pt-5 ">
+              <img
+                src="https://img.freepik.com/free-vector/hand-drawn-flat-design-crm-illustration_23-2149379498.jpg?w=996&t=st=1694788682~exp=1694789282~hmac=1e2f1d504e92368f88e4985ee53a0fd8d8ee56c8eb431df7bc284e261e71f8f9"
+                className="max-w-xl opacity-100 bg-white static"
+              />
             </div>
           </div>
-          <div className="flex-1 items-center hidden md:block md:ml-20 pt-5 ">
-            <img
-              src="https://img.freepik.com/free-vector/hand-drawn-flat-design-crm-illustration_23-2149379498.jpg?w=996&t=st=1694788682~exp=1694789282~hmac=1e2f1d504e92368f88e4985ee53a0fd8d8ee56c8eb431df7bc284e261e71f8f9"
-              className="max-w-xl opacity-100 bg-white static"
-            />
-          </div>
-        </div>
-      </section>
-
+        </section> */}
+<section className="bg-white py-16 md:py-20">
+<div className="max-w-screen-xl mx-auto px-4 md:px-8 flex flex-col md:flex-row items-center justify-between">
+      <div className="md:max-w-xl md:mr-10 text-center md:text-left">
+        <h1 className="animate-text font-bold font-body bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-transparent md:text-7xl text-6xl">
+        The real customer centric CRM
+        </h1>
+        <p className="text-xl md:text-2xl text-black mb-8 py-5">
+        Track leads, close opportunities and get accurate forecasts.        </p>
+        <div className="text-center pb-5 pt-5  animate-bounce ">
+                <a
+                  href={"/contact"}
+                  className="bg-transparent text-center transition ease-in-out duration-500 hover:bg-black text-black font-semibold hover:text-white py-4 px-9  border border-black hover:border-transparent rounded-full"
+                >
+                  Start now-Contact us
+                </a>
+              </div>
+      </div>
+      <div className="flex-1 items-center hidden md:block md:ml-20">
+        <img
+          src="https://img.freepik.com/free-vector/hand-drawn-flat-design-crm-illustration_23-2149379498.jpg?w=996&t=st=1694788682~exp=1694789282~hmac=1e2f1d504e92368f88e4985ee53a0fd8d8ee56c8eb431df7bc284e261e71f8f9"
+          alt="Illustration"
+          className="w-full h-auto object-cover rounded-md animate-fade-in-left"
+        />
+      </div>
+    </div>
+  </section>
       <section className=" py-5 md:py-10 xl:py-1 sm:px-4  px-8 pb-5 ">
         <div className="container mx-auto">
           <div className="flex justify-center">

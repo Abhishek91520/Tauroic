@@ -6,8 +6,9 @@ const Sales = () => {
   return (
     <div>
       <Navbar />
+      <title>Sales</title>
       <section className="sm:pb-28 bg-white overflow-hidden">
-        <div className="max-w-screen-xl mx-auto px-9 py-5 md:py-10 gap-12 text-gray-600 overflow-hidden md:px-8 md:flex">
+        <div className="max-w-screen-xl mx-auto px-5 py-5 md:py-10 gap-12 text-gray-600 overflow-hidden md:px-8 md:flex">
           <div className="flex-none space-y-5 max-w-xl">
             <br></br>
             <br></br>

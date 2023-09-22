@@ -2,17 +2,17 @@ import Footer from '@/components/footer'
 import Navbar from '@/components/navbar'
 import React from 'react'
 
-const eCommerce
+const Inventory
  = () => {
   return (
     <div>
-      <Navbar/>
-      <title>eCommerce</title>
+        <Navbar/>
+        <title>eCommerce</title>
       <section className="bg-white py-16 md:py-20">
         <div className="max-w-screen-xl mx-auto px-4 md:px-8 flex flex-col md:flex-row items-center justify-between">
           <div className="md:max-w-xl md:mr-10 text-center md:text-left">
             <h1 className="animate-text font-bold font-body bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-transparent md:text-7xl text-6xl">
-            Discover the Perfect eCommerce Platform
+            Discover the Perfect  eCommerce Platform
             </h1>
             <p className="text-xl md:text-2xl text-black mb-8 py-5">
             Open Source, Scalable, and User-Friendly
@@ -35,10 +35,12 @@ const eCommerce
           </div>
         </div>
       </section>
-      <Footer/>
-        
+
+        <Footer/>
+
+
     </div>
   )
 }
 
-export default eCommerce
+export default Inventory

@@ -9,11 +9,14 @@ export default function Index() {
     <div className="font-body">
       <div className=" bg-current">
       </div>
-      <title>Touroic Technology</title>
+      <title>Touroic Technologies</title>
       
       <Navbar />
       <div className=" border-2 border-black bg-cover bg-center">
-      <section className="bg-white py-16 md:py-20">
+      <section className="bg-white py-8
+      
+      +3
+      md:pt-20">
     <div className="max-w-screen-xl mx-auto px-4 md:px-8 flex flex-col md:flex-row items-center justify-between">
       <div className="md:max-w-xl md:mr-10 text-center md:text-left">
         <h1 className="animate-text font-bold font-body bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-transparent md:text-7xl text-6xl">
