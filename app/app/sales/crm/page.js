@@ -45,7 +45,7 @@ const CRM = () => {
         </h1>
         <p className="text-xl md:text-2xl text-black mb-8 py-5">
         Track leads, close opportunities and get accurate forecasts.        </p>
-        <div className="text-center pb-5 pt-5  animate-bounce ">
+        <div className="text-left pb-5 pt-5  animate-bounce ">
                 <a
                   href={"/contact"}
                   className="bg-transparent text-center transition ease-in-out duration-500 hover:bg-black text-black font-semibold hover:text-white py-4 px-9  border border-black hover:border-transparent rounded-full"
@@ -56,7 +56,7 @@ const CRM = () => {
       </div>
       <div className="flex-1 items-center hidden md:block md:ml-20">
         <img
-          src="https://img.freepik.com/free-vector/hand-drawn-flat-design-crm-illustration_23-2149379498.jpg?w=996&t=st=1694788682~exp=1694789282~hmac=1e2f1d504e92368f88e4985ee53a0fd8d8ee56c8eb431df7bc284e261e71f8f9"
+          src="https://i.ibb.co/mG98PFV/1.jpg"
           alt="Illustration"
           className="w-full h-auto object-cover rounded-md animate-fade-in-left"
         />

@@ -185,7 +185,7 @@ const Invoicing = () => {
             <div className="lg:w-7/12 pb-12 lg:pb-0 pt-5">
               <div className="relative overflow-hidden  rounded-lg shadow-lg   hover:scale-105 transform transition-transform duration-500">
                 <img
-                  src="https://odoocdn.com/web/image/11186862/Invoicing-Dashboard.png"
+                  src="https://img.freepik.com/free-vector/business-mission-concept-illustration_114360-7295.jpg?w=5000&t=st=1695555059~exp=1695555659~hmac=7836672587b3f0250072c9fd93bf5747e65149a26c06684bfab88735c89cd4a6"
                   className="h-auto bg-white"
                   alt="Animation of pipeline analysis"
                   loading="lazy"

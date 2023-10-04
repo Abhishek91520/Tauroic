@@ -180,7 +180,7 @@ const Accounting = () => {
             <div className="lg:w-7/12 pb-12 lg:pb-0 pt-5">
               <div className="relative overflow-hidden    hover:scale-105 transform transition-transform duration-500">
                 <img
-                  src="https://odoocdn.com/openerp_website/static/src/img/2022/accounting/accounting_img_03.png"
+                  src="https://img.freepik.com/free-vector/paying-bills-concept-illustration_114360-19357.jpg?w=740&t=st=1696166510~exp=1696167110~hmac=8a070f3edfc2b34476a71cedc7a40ef8b635f72fea6b82d19bb2c3a523993db7"
                   className="h-auto bg-white"
                   alt="Animation of pipeline analysis"
                   loading="lazy"
