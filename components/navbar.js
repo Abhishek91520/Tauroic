@@ -30,10 +30,10 @@ const Navbar = () => {
                 <ul className="absolute mt-6 border-2 hidden border-gray-300 py-2 px-3  bg-white rounded shadow-lg group-hover:block">
                     <li><a href="/app/finance/accounting" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Accounting</a></li>
                     <li><a href="/app/finance/invoicing" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Invoicing</a></li>
-                    <li><a href="/app/finance/expenses" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Expenses</a></li>
-                    <li><a href="/app/finance/spreadsheet" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Spreadsheet</a></li>
-                    <li><a href="/app/finance/document" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Document</a></li>
-                    <li><a href="/app/finance/sign" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Sign</a></li>
+                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Expenses</a></li>
+                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Spreadsheet</a></li>
+                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Document</a></li>
+                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Sign</a></li>
                 </ul>
             </li>
             <li className="group py-1 px-5 hover:rounded flex hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 ">
@@ -46,10 +46,10 @@ const Navbar = () => {
                 <ul className="absolute mt-6 border-2 hidden border-gray-300 py-2 px-3 bg-white rounded shadow-lg group-hover:block">
                     <li><a href="/app/sales/crm" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">CRM</a></li>
                     <li><a href="/app/sales/sales" className="block py-2 px-3 rounded hover:bg-red-100  transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Sales</a></li>
-                    <li><a href="/app/sales/pointofsale" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Point of Sale</a></li>
-                    <li><a href="/app/sales/subscriptions" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Subscriptions</a></li>
-                    <li><a href="/app/sales/rental" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Rental</a></li>
-                    <li><a href="/app/sales/amazonconnector" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Amazon Connector</a></li>
+                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Point of Sale</a></li>
+                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Subscriptions</a></li>
+                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Rental</a></li>
+                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Amazon Connector</a></li>
                 </ul>
             </li>
             <li className=" group py-1 px-3 hover:rounded flex hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105">
@@ -61,11 +61,11 @@ const Navbar = () => {
             </a>
                 <ul className="absolute mt-6 border-2 hidden border-gray-300 py-2 px-3 bg-white rounded shadow-lg group-hover:block">
                     <li><a href="/app/websites/websitebuilder" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Website Builder</a></li>
-                    <li><a href="/app/websites/ecommerce" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">eCommerce</a></li>
-                    <li><a href="/app/websites/#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Blogs</a></li>
-                    <li><a href="/app/websites/#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Forum</a></li>
-                    <li><a href="/app/websites/#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Live Chat</a></li>
-                    <li><a href="/app/websites/#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">eLearning</a></li>
+                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">eCommerce</a></li>
+                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Blogs</a></li>
+                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Forum</a></li>
+                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Live Chat</a></li>
+                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">eLearning</a></li>
                 </ul>
             </li>
             <li className="  group py-1 px-3 hover:rounded flex hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105">
@@ -77,11 +77,11 @@ const Navbar = () => {
             </a>
                 <ul className="absolute mt-6  border-2 border-gray-300 py-2 px-3 bg-white rounded shadow-lg hidden group-hover:block">
                     <li><a href="/app/inventory/inventory" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Invetory</a></li>
-                    <li><a href="/app/inventory/#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Manufacturing</a></li>
-                    <li><a href="/app/inventory/#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">PLM</a></li>
-                    <li><a href="/app/inventory/#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Purchase</a></li>
-                    <li><a href="/app/inventory/#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Maintenance</a></li>
-                    <li><a href="/app/inventory/#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Quality</a></li>
+                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Manufacturing</a></li>
+                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">PLM</a></li>
+                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Purchase</a></li>
+                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Maintenance</a></li>
+                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Quality</a></li>
                 </ul>
             </li>
             <li className="  group py-1 px-3 hover:rounded flex hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105">
@@ -92,12 +92,12 @@ const Navbar = () => {
                 </svg>
             </a>
                 <ul className="absolute mt-6 border-2 border-gray-300 py-2 px-3 bg-white rounded shadow-lg hidden group-hover:block ">
-                    <li><a href="/app/hr/#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Employees</a></li>
-                    <li><a href="/app/hr/#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Recruitment</a></li>
-                    <li><a href="/app/hr/#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Time Off</a></li>
-                    <li><a href="/app/hr/#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Appraisals</a></li>
-                    <li><a href="/app/hr/#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Referrals</a></li>
-                    <li><a href="/app/hr/#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Fleet</a></li>
+                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Employees</a></li>
+                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Recruitment</a></li>
+                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Time Off</a></li>
+                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Appraisals</a></li>
+                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Referrals</a></li>
+                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Fleet</a></li>
                 </ul>
             </li>
             <li className="group py-1 px-3 hover:rounded flex hover:bg-red-100 hover:scale-105 ">
@@ -108,12 +108,12 @@ const Navbar = () => {
                 </svg>
             </a>
                 <ul className="absolute mt-6 border-2  border-gray-300 py-2 px-3 bg-white rounded shadow-lg hidden group-hover:block">
-                    <li><a href="/app/marketing/socialmarketing" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Email Marketing</a></li>
-                    <li><a href="/app/marketing/emailmarketing" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Social Marketing</a></li>
-                    <li><a href="/app/marketing/smsmarketing" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">SMS Marketing</a></li>
-                    <li><a href="/app/marketing/events" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Events</a></li>
-                    <li><a href="/app/marketing/marketingautomation" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Marketing_Automation</a></li>
-                    <li><a href="/app/marketing/surveys" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Surveys</a></li>
+                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Email Marketing</a></li>
+                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Social Marketing</a></li>
+                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">SMS Marketing</a></li>
+                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Events</a></li>
+                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Marketing_Automation</a></li>
+                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Surveys</a></li>
                 </ul>
             </li>
             <li className="  group py-1 px-3 hover:rounded flex hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105">
@@ -124,12 +124,12 @@ const Navbar = () => {
                 </svg>
             </a>
                 <ul className="absolute mt-6 border-2 border-gray-300 py-2 px-3 bg-white rounded shadow-lg hidden group-hover:block">
-                    <li><a href="/app/services/project" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Project</a></li>
-                    <li><a href="/app/services/timesheet" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Timesheet</a></li>
-                    <li><a href="/app/services/fieldservice" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Field Service</a></li>
-                    <li><a href="/app/services/helpdesk" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Helpdesk</a></li>
-                    <li><a href="/app/services/planning" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Planning</a></li>
-                    <li><a href="/app/services/appointments" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Appointments</a></li>
+                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Project</a></li>
+                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Timesheet</a></li>
+                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Field Service</a></li>
+                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Helpdesk</a></li>
+                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Planning</a></li>
+                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Appointments</a></li>
                 </ul>
             </li>
             <li className="  group py-1 px-3 hover:rounded flex hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105">
@@ -186,10 +186,10 @@ const Navbar = () => {
                 <ul className="dropdown-content pl-5">
                     <li><a href="/app/finance/accounting" className="block text-xl p-1 font-normal hover:bg-red-100 ">Accounting</a></li>
                     <li><a href="/app/finance/invoicing" className="block text-xl p-1 font-normal hover:bg-red-100">Invoicing</a></li>
-                    <li><a href="/app/finance/expenses" className="block text-xl p-1 font-normal hover:bg-red-100">Expenses</a></li>
-                    <li><a href="/app/finance/spreadsheet" className="block text-xl p-1 font-normal hover:bg-red-100">Spreadsheet</a></li>
-                    <li><a href="/app/finance/document" className="block text-xl p-1 font-normal hover:bg-red-100">Document</a></li>
-                    <li><a href="/app/finance/sign" className="block text-xl p-1 font-normal hover:bg-red-100">Sign</a></li>
+                    <li><a href="#" className="block text-xl p-1 font-normal hover:bg-red-100">Expenses</a></li>
+                    <li><a href="#" className="block text-xl p-1 font-normal hover:bg-red-100">Spreadsheet</a></li>
+                    <li><a href="#" className="block text-xl p-1 font-normal hover:bg-red-100">Document</a></li>
+                    <li><a href="#" className="block text-xl p-1 font-normal hover:bg-red-100">Sign</a></li>
                 </ul>
           </li>
             <li className="py-2.5 px-4 hover:rounded hover:bg-red-100 grid">
@@ -199,10 +199,10 @@ const Navbar = () => {
               <ul className="dropdown-content pl-5 py-2 ">
                     <li><a href="/app/sales/crm" className="block text-xl p-1 font-normal ">CRM</a></li>
                     <li><a href="/app/sales/sales" className="block text-xl p-1 font-normal hover:bg-red-100">Sales</a></li>
-                    <li><a href="/app/sales/pointofsale" className="block text-xl p-1 font-normal hover:bg-red-100">Point of Sale</a></li>
-                    <li><a href="/app/sales/subscriptions" className="block text-xl p-1 font-normal hover:bg-red-100">Subscriptions</a></li>
-                    <li><a href="/app/sales/rental" className="block text-xl p-1 font-normal hover:bg-red-100">Rental</a></li>
-                    <li><a href="/app/sales/amazonconnector" className="block text-xl p-1 font-normal hover:bg-red-100">Amazon Connector</a></li>
+                    <li><a href="#" className="block text-xl p-1 font-normal hover:bg-red-100">Point of Sale</a></li>
+                    <li><a href="#" className="block text-xl p-1 font-normal hover:bg-red-100">Subscriptions</a></li>
+                    <li><a href="#" className="block text-xl p-1 font-normal hover:bg-red-100">Rental</a></li>
+                    <li><a href="#" className="block text-xl p-1 font-normal hover:bg-red-100">Amazon Connector</a></li>
                 </ul>
             </li>
             <li className="py-2.5 px-4 hover:rounded hover:bg-red-100 grid">
@@ -211,7 +211,7 @@ const Navbar = () => {
               </a>
               <ul className="dropdown-content pl-5 py-2 ">
                     <li><a href="/app/websites/websitebuilder" className="block text-xl p-1 font-normal hover:bg-red-100">Website Builder</a></li>
-                    <li><a href="/app/websites/ecommerce" className="block text-xl p-1 font-normal hover:bg-red-100">eCommerce</a></li>
+                    <li><a href="#" className="block text-xl p-1 font-normal hover:bg-red-100">eCommerce</a></li>
                     <li><a href="#" className="block text-xl p-1 font-normal hover:bg-red-100">Blogs</a></li>
                     <li><a href="#" className="block text-xl p-1 font-normal hover:bg-red-100">Forum</a></li>
                     <li><a href="#" className="block text-xl p-1 font-normal hover:bg-red-100">Live Chat</a></li>
@@ -223,7 +223,7 @@ const Navbar = () => {
                 Inventoty & MRP
               </a>
               <ul className="dropdown-content pl-5 py-2 ">
-                    <li><a href="#" className="block text-xl p-1 font-normal hover:bg-red-100">Invetory</a></li>
+                    <li><a href="/app/inventory/inventory" className="block text-xl p-1 font-normal hover:bg-red-100">Invetory</a></li>
                     <li><a href="#" className="block text-xl p-1 font-normal hover:bg-red-100">Manufacturing</a></li>
                     <li><a href="#" className="block text-xl p-1 font-normal hover:bg-red-100">PLM</a></li>
                     <li><a href="#" className="block text-xl p-1 font-normal hover:bg-red-100">Purchase</a></li>

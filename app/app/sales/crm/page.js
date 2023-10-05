@@ -72,7 +72,7 @@ const CRM = () => {
                   <img
                     className=" w-full h-auto transition-opacity duration-300 transform hover:opacity-90 cursor-pointer "
                     src="https://odoocdn.com/openerp_website/static/src/img/2018/crm/crm_screenshot_01.gif"
-                    alt="Odoo CRM's Pipeline interface"
+                    alt=" CRM's Pipeline interface"
                     loading="lazy"
                   />
                   <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
@@ -179,7 +179,7 @@ const CRM = () => {
               <img
                 className="shadow-lg rounded-lg  transition-transform duration-300 transform hover:scale-105"
                 src="https://odoocdn.com/openerp_website/static/src/img/2018/crm/crm_screenshot_03.gif"
-                alt="Odoo CRM's interface to edit an opportunity"
+                alt=" CRM's interface to edit an opportunity"
                 loading="lazy"
               />
             </div>
@@ -221,39 +221,12 @@ const CRM = () => {
                 <br />
                 Organize your work based on your scheduled next actions.
               </p>
-              <div className="s_testimonial flex py-6">
-                <div>
-                  <img
-                    className=" w-24 rounded-full	"
-                    src="https://odoocdn.com/openerp_website/static/src/img/2016/testimonials/claudia_sebastiani.jpg"
-                    alt="Claudia Sebastiani"
-                    loading="lazy"
-                    style={{}}
-                  />
-                </div>
-                <blockquote className="px-5  italic">
-                  <p>
-                    “With Odoo CRM, I keep all the information about leads and
-                    customers in a single place. It's great and effective.”
-                  </p>
-                  <p>
-                    <small>Claudia Sebastiani, Account Manager</small>
-                  </p>
-                  <img
-                    src="https://odoocdn.com/openerp_website/static/src/img/2016/testimonials/logo_creativi_quadrati.png"
-                    className="w-24 "
-                    alt="Logo"
-                    loading="lazy"
-                    style={{}}
-                  />
-                </blockquote>
-              </div>
             </div>
             <div className="lg:w-6/12 lg:offset-1 relative">
               <img
                 className="relative overflow-hidden shadow-lg rounded-lg hover:scale-105 transform transition-transform duration-500"
                 src="//odoocdn.com/web/image/11143262/Sales-Analysis.png"
-                alt="Odoo Sales analysis interface"
+                alt=" Sales analysis interface"
                 loading="lazy"
                 style={{}}
               />
@@ -268,7 +241,7 @@ const CRM = () => {
               <img
                 className="rounded-lg shadow-lg  transition-transform duration-300 transform hover:scale-105"
                 src="//odoocdn.com/web/image/11186731/CRM-Discuss.png"
-                alt="Odoo Discuss App - screenshot of a conversation"
+                alt=" Discuss App - screenshot of a conversation"
                 loading="lazy"
               />
             </div>

@@ -13,7 +13,7 @@ const Document = () => {
             <br></br>
             <br></br>
             <h1 className="text-5xl text-gray-800 font-semibold sm:text-7xl">
-            Odoo Documents
+            Tauroic Documents
             </h1>
             <p className="text-2xl">
             Save time recording bills, scanning contracts, approving documents, and become a paperless company.
@@ -31,7 +31,7 @@ const Document = () => {
             <img
               className="img-fluid"
               src="https://img.freepik.com/free-vector/businessman-holding-pencil-big-complete-checklist-with-tick-marks_1150-35019.jpg?size=1000&ext=jpg&ga=GA1.2.965098731.1692009598&semt=sph"
-              alt="Odoo Sales analysis interface"
+              alt=" Sales analysis interface"
               loading="lazy"
               style={{}}
             />
