@@ -65,23 +65,23 @@ function Footer() {
         },
       ],
     },
-    {
-      label: "Company",
-      items: [
-        {
-          href: "#",
-          name: "Partners",
-        },
-        {
-          href: "#",
-          name: "Team",
-        },
-        {
-          href: "#",
-          name: "Careers",
-        },
-      ],
-    },
+    // {
+    //   label: "Company",
+    //   items: [
+    //     {
+    //       href: "#",
+    //       name: "Partners",
+    //     },
+    //     {
+    //       href: "#",
+    //       name: "Team",
+    //     },
+    //     {
+    //       href: "#",
+    //       name: "Careers",
+    //     },
+    //   ],
+    // },
   ];
 
   return (

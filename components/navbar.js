@@ -13,7 +13,7 @@ const Navbar = () => {
       <div className="flex justify-between items-center px-12 p-4 text-sm border border-black">
         <div>
           <a href="/">
-            <div className="text-xl transition-all duration-200 ease-in-out transform hover:scale-105 animate-text font-bold font-body bg-gradient-to-b  hover:animate-ping from-black  via-red-500 to-orange-500 bg-clip-text text-transparent">
+            <div className="text-2xl text font-bold font-body bg-gradient-to-b  from-black  via-red-500 to-orange-500 bg-clip-text text-transparent">
               <h1>Tauroic</h1>
             </div>
           </a>
@@ -134,23 +134,30 @@ const Navbar = () => {
             </li>
             <li className="  group py-1 px-3 hover:rounded flex hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105">
             <a className="inline-flex" aria-expanded="false" aria-haspopup="true">
-                Digital Marketing
+                Outsourcing
                 <svg className="-mr-1 h-5 w-5 text-black-400" viewBox="0 0 20 20" aria-hidden="true">
                 <path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" />
                 </svg>
-            </a>
+            </a>  
                 <ul className="absolute mt-6  border-2 border-gray-300 py-2 px-3 bg-white rounded shadow-lg hidden group-hover:block">
-                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Social Media</a></li>
-                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">SEO</a></li>
-                    <li><a href="#" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Promotions</a></li>
+                    <li><a href="/app/outsourcing/powerbi" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">Power BI</a></li>
+                    <li><a href="/app/outsourcing/ssrs" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">SSRS</a></li>
+       
+                    <li><a href="/app/outsourcing/sap" className="block py-2 px-3 rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 font-medium ">SAP</a></li>
+          
                 </ul>
             </li>
           </ul>
         </div>
-        <div className="#">
-          <ul className=" justify-center hover:cursor-pointer hidden lg:inline">
+        <div className="inline-flex">
+          <ul className=" justify-center hover:cursor-pointer hidden lg:inline ">
             <li className="py-1 px-3 hover:rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform hover:scale-105 ">
-              <a href="/contact" className="transition-all duration-200 ease-in-out transform hover:scale-105 animate-bounce 	">Contact Us</a>
+              <a href="/about" >About Us</a>
+            </li>
+          </ul>
+          <ul className="  justify-center hover:cursor-pointer hidden lg:inline ">
+            <li className="py-1 px-3 hover:rounded hover:bg-red-100 transition-all duration-200 ease-in-out transform text-red-700 hover:scale-105 ">
+              <a href="/contact" >Contact Us</a>
             </li>
           </ul>
         </div>
