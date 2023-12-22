@@ -7,7 +7,8 @@ import { useForm, ValidationError } from "@formspree/react";
 const Contact = () => {
   const [state, handleSubmit] = useForm("mpzvalre");
   if (state.succeeded) {
-    return <p>Thanks for joining!</p>;
+    alert("Thank You!");
+;
   }
   return (
     <div className="font-body">
@@ -68,7 +69,7 @@ const Contact = () => {
                         Subject
                       </label>
                       <input
-                        type="text"
+                        type="subject"
                         id="subject"
                         name="subject"
                         placeholder="Enter subject"
