@@ -1,5 +1,0 @@
-﻿{
-  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
-  "Domain": "tauroic.com",
-  "Id": "8779d469-2e6e-4c30-a8b3-67b83f780e49"
-}
